@@ -4,6 +4,7 @@ This repository contains a blog post in the form of a Jupyter notebook. Please c
 
 ## Authors
 Jeroen Hofland (j.l.hofland@student.tudelft.nl)
+
 Jochem van Lith (j.a.e.vanlith@student.tudelft.nl)
 
 ## Introduction
